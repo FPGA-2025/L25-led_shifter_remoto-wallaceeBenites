@@ -1,0 +1,6 @@
+tb
+*/test/*.out
+tb
+*.vcd
+.DS_Store
+build/
